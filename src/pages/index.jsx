@@ -8,10 +8,11 @@ import Timeline from "../components/timeline";
 export default function HomePage() {
   return (
     <div className="w-[100vw]">
-      <Navbar />
-      <Hero /> <About />
-      <Skills />
-      <Timeline /> <Footer />
+      {/* <Navbar /> */}
+      <Hero />
+      {/* <About /> */}
+      {/* <Skills />
+      <Timeline /> <Footer /> */}
     </div>
   );
 }

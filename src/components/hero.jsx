@@ -21,6 +21,15 @@ export default function Hero() {
             <h3 className="font-medium text-white text-[30px] md:text-[44px] leading-8 md:leading-[70px]">
               I love building for/around web3 tech.
             </h3>
+            <p className="font-medium text-white text-[13px] md:text-[13px] leading-8 md:leading-[70px]">
+              I accidentally ran&nbsp;&nbsp;&nbsp;
+              <code className="text-sm font-mono text-[#ff3c00]">
+                git rm -f *
+              </code>
+              &nbsp;&nbsp;&nbsp;So follow me on my socials until i get this shit
+              fixed.
+            </p>
+
             <span className="text-[#5ff3d1] text-[20px] font-normal leading-5">
               Full Stack Engineer
             </span>
