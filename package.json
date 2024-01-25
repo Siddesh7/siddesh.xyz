@@ -1,7 +1,7 @@
 {
   "name": "linkedin",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app/redirect.js",
   "scripts": {
     "start": "micro"
   },
