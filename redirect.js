@@ -7,7 +7,7 @@ module.exports = (req, res) => {
   const subdomain = query.subdomain;
   
   if (subdomain) {
-    const linkedinProfile = 'https://www.linkedin.com/in/yourlinkedinprofile';
+    const linkedinProfile = 'https://www.linkedin.com/in/siddesh-eth';
     const redirectUrl = `${linkedinProfile}/${subdomain}`;
     return send(res, 302, null, { Location: redirectUrl });
   }
