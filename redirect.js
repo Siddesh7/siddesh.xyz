@@ -1,4 +1,3 @@
-// api/redirect.js
 
 const { send } = require('micro');
 
