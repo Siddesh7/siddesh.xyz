@@ -1,6 +1,6 @@
 
 {
   "redirects": [
-    { "source": "/(.*)", "destination": "https://linkedin.com/in/siddesh-eth", "permanent": true }
+    { "source": "/(.*)", "destination": "https://x.com/0xsiddesh", "permanent": true }
   ]
 }
